@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 5
+      "total" : 6
     },
     "items" : [ {
+      "uid" : "aa9fa4aac133341b",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/22/allure/#testresult/aa9fa4aac133341b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614788034839,
+        "stop" : 1614788064101,
+        "duration" : 29262
+      }
+    }, {
       "uid" : "c74f78b60cc4bbcd",
       "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure/#testresult/c74f78b60cc4bbcd",
       "status" : "passed",
@@ -44,14 +53,6 @@
         "stop" : 1614742739182,
         "duration" : 11748
       }
-    }, {
-      "uid" : "e8ca3e6cd44364b0",
-      "status" : "passed",
-      "time" : {
-        "start" : 1614741754444,
-        "stop" : 1614741765399,
-        "duration" : 10955
-      }
     } ]
   },
   "48cb28732beb1ed2758387fb58b78300" : {
@@ -59,11 +60,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 5,
       "unknown" : 0,
-      "total" : 4
+      "total" : 5
     },
     "items" : [ {
+      "uid" : "6a842cb5a13d334e",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/22/allure/#testresult/6a842cb5a13d334e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614788064331,
+        "stop" : 1614788110328,
+        "duration" : 45997
+      }
+    }, {
       "uid" : "89f3ad8e42002105",
       "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure/#testresult/89f3ad8e42002105",
       "status" : "passed",
@@ -105,11 +115,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "e49b3f41dc770672",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/22/allure/#testresult/e49b3f41dc770672",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614788110397,
+        "stop" : 1614788120435,
+        "duration" : 10038
+      }
+    }, {
       "uid" : "1e501b1adfedf48f",
       "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure/#testresult/1e501b1adfedf48f",
       "status" : "passed",

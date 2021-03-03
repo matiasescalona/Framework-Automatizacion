@@ -1,4 +1,16 @@
 [ {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/MavenJavaTest/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 3
+  }
+}, {
   "buildOrder" : 21,
   "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure",
   "reportName" : "AllureReport",

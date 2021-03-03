@@ -15,8 +15,8 @@ Feature: Examples
     Given I am in App main site
     Then I load the DOM Information Spotify_registro.json
     And I click in element Email
-    And I set element Email with text Cinthia.escalonague@gmail.com
-    And I set element Email Confirmacion with text Cinthia.escalonague@gmail.com
+    And I set element Email with text matiasescalona@gmail.com
+    And I set element Email Confirmacion with text matiasescalona@gmail.com
     Then I attach a Screenshot to Report
 
   @frames

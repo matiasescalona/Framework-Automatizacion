@@ -2,9 +2,9 @@
   "name" : "Jenkins",
   "type" : "jenkins",
   "url" : "http://localhost:8080/",
-  "buildOrder" : 21,
-  "buildName" : "Prueba para validar el Flujo #21",
-  "buildUrl" : "http://localhost:8080/job/MavenJavaTest/21/",
+  "buildOrder" : 22,
+  "buildName" : "Prueba para validar el Flujo #22",
+  "buildUrl" : "http://localhost:8080/job/MavenJavaTest/22/",
   "reportName" : "AllureReport",
-  "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure"
+  "reportUrl" : "http://localhost:8080/job/MavenJavaTest/22/allure"
 } ]

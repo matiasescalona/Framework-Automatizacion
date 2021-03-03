@@ -1,30 +1,30 @@
 [ {
-  "uid" : "c74f78b60cc4bbcd",
+  "uid" : "aa9fa4aac133341b",
   "name" : "Get Sites",
   "time" : {
-    "start" : 1614743259892,
-    "stop" : 1614743271115,
-    "duration" : 11223
+    "start" : 1614788034839,
+    "stop" : 1614788064101,
+    "duration" : 29262
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1e501b1adfedf48f",
-  "name" : "Handle various functions",
-  "time" : {
-    "start" : 1614743281438,
-    "stop" : 1614743290333,
-    "duration" : 8895
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "89f3ad8e42002105",
+  "uid" : "6a842cb5a13d334e",
   "name" : "Assert contain text",
   "time" : {
-    "start" : 1614743271279,
-    "stop" : 1614743281399,
-    "duration" : 10120
+    "start" : 1614788064331,
+    "stop" : 1614788110328,
+    "duration" : 45997
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e49b3f41dc770672",
+  "name" : "Handle various functions",
+  "time" : {
+    "start" : 1614788110397,
+    "stop" : 1614788120435,
+    "duration" : 10038
   },
   "status" : "passed",
   "severity" : "normal"

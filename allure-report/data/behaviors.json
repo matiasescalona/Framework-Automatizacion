@@ -7,13 +7,13 @@
       "name" : "Get Sites",
       "children" : [ {
         "name" : "Get Sites",
-        "uid" : "c74f78b60cc4bbcd",
+        "uid" : "aa9fa4aac133341b",
         "parentUid" : "fc99dd761504f783cdea8ee129e2f2e3",
         "status" : "passed",
         "time" : {
-          "start" : 1614743259892,
-          "stop" : 1614743271115,
-          "duration" : 11223
+          "start" : 1614788034839,
+          "stop" : 1614788064101,
+          "duration" : 29262
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -23,13 +23,13 @@
       "name" : "Assert contain text",
       "children" : [ {
         "name" : "Assert contain text",
-        "uid" : "89f3ad8e42002105",
+        "uid" : "6a842cb5a13d334e",
         "parentUid" : "c3418d75d7e01874b950088e81230790",
         "status" : "passed",
         "time" : {
-          "start" : 1614743271279,
-          "stop" : 1614743281399,
-          "duration" : 10120
+          "start" : 1614788064331,
+          "stop" : 1614788110328,
+          "duration" : 45997
         },
         "flaky" : false,
         "parameters" : [ ]
@@ -39,13 +39,13 @@
       "name" : "Handle various functions",
       "children" : [ {
         "name" : "Handle various functions",
-        "uid" : "1e501b1adfedf48f",
+        "uid" : "e49b3f41dc770672",
         "parentUid" : "0886d1360a4dade81b421ecbd791f21e",
         "status" : "passed",
         "time" : {
-          "start" : 1614743281438,
-          "stop" : 1614743290333,
-          "duration" : 8895
+          "start" : 1614788110397,
+          "stop" : 1614788120435,
+          "duration" : 10038
         },
         "flaky" : false,
         "parameters" : [ ]
