@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Examples",
+    "children" : [ {
+      "name" : "Get Sites",
+      "children" : [ {
+        "name" : "Get Sites",
+        "uid" : "c74f78b60cc4bbcd",
+        "parentUid" : "fc99dd761504f783cdea8ee129e2f2e3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614743259892,
+          "stop" : 1614743271115,
+          "duration" : 11223
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fc99dd761504f783cdea8ee129e2f2e3"
+    }, {
+      "name" : "Assert contain text",
+      "children" : [ {
+        "name" : "Assert contain text",
+        "uid" : "89f3ad8e42002105",
+        "parentUid" : "c3418d75d7e01874b950088e81230790",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614743271279,
+          "stop" : 1614743281399,
+          "duration" : 10120
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c3418d75d7e01874b950088e81230790"
+    }, {
+      "name" : "Handle various functions",
+      "children" : [ {
+        "name" : "Handle various functions",
+        "uid" : "1e501b1adfedf48f",
+        "parentUid" : "0886d1360a4dade81b421ecbd791f21e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1614743281438,
+          "stop" : 1614743290333,
+          "duration" : 8895
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0886d1360a4dade81b421ecbd791f21e"
+    } ],
+    "uid" : "0bf262c78f2dddfe581a58c46a70dc1f"
+  } ]
+}

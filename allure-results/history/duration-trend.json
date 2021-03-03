@@ -1,0 +1,10 @@
+[ {
+  "buildOrder" : 16,
+  "reportUrl" : "http://localhost:8080/job/MavenJavaTest/16/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "data" : {
+    "duration" : 23718
+  }
+} ]

@@ -1,0 +1,31 @@
+[ {
+  "uid" : "c74f78b60cc4bbcd",
+  "name" : "Get Sites",
+  "time" : {
+    "start" : 1614743259892,
+    "stop" : 1614743271115,
+    "duration" : 11223
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1e501b1adfedf48f",
+  "name" : "Handle various functions",
+  "time" : {
+    "start" : 1614743281438,
+    "stop" : 1614743290333,
+    "duration" : 8895
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89f3ad8e42002105",
+  "name" : "Assert contain text",
+  "time" : {
+    "start" : 1614743271279,
+    "stop" : 1614743281399,
+    "duration" : 10120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

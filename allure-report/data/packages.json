@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Features.example_feature.Examples",
+    "children" : [ {
+      "name" : "Get Sites",
+      "uid" : "c74f78b60cc4bbcd",
+      "parentUid" : "06da22d6cfecc781c56e036895550efe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743259892,
+        "stop" : 1614743271115,
+        "duration" : 11223
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Assert contain text",
+      "uid" : "89f3ad8e42002105",
+      "parentUid" : "06da22d6cfecc781c56e036895550efe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743271279,
+        "stop" : 1614743281399,
+        "duration" : 10120
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Handle various functions",
+      "uid" : "1e501b1adfedf48f",
+      "parentUid" : "06da22d6cfecc781c56e036895550efe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743281438,
+        "stop" : 1614743290333,
+        "duration" : 8895
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Features.example_feature.Examples"
+  } ]
+}

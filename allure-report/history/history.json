@@ -1,0 +1,123 @@
+{
+  "9e3eb6a4aca047f1b99e2062ef920fca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "items" : [ {
+      "uid" : "c74f78b60cc4bbcd",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure/#testresult/c74f78b60cc4bbcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743259892,
+        "stop" : 1614743271115,
+        "duration" : 11223
+      }
+    }, {
+      "uid" : "474b3de05c4b62be",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/20/allure/#testresult/474b3de05c4b62be",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743123413,
+        "stop" : 1614743136503,
+        "duration" : 13090
+      }
+    }, {
+      "uid" : "e79b50919d06dc3a",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/19/allure/#testresult/e79b50919d06dc3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743056302,
+        "stop" : 1614743067647,
+        "duration" : 11345
+      }
+    }, {
+      "uid" : "3168c96034b48e6d",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/18/allure/#testresult/3168c96034b48e6d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614742727434,
+        "stop" : 1614742739182,
+        "duration" : 11748
+      }
+    }, {
+      "uid" : "e8ca3e6cd44364b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614741754444,
+        "stop" : 1614741765399,
+        "duration" : 10955
+      }
+    } ]
+  },
+  "48cb28732beb1ed2758387fb58b78300" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "89f3ad8e42002105",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure/#testresult/89f3ad8e42002105",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743271279,
+        "stop" : 1614743281399,
+        "duration" : 10120
+      }
+    }, {
+      "uid" : "6f335274ebba0d85",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/19/allure/#testresult/6f335274ebba0d85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614742739347,
+        "stop" : 1614742750529,
+        "duration" : 11182
+      }
+    }, {
+      "uid" : "ac53a89e1cae8ff9",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/18/allure/#testresult/ac53a89e1cae8ff9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614742739347,
+        "stop" : 1614742750529,
+        "duration" : 11182
+      }
+    }, {
+      "uid" : "9cbef75a833d586d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614741765559,
+        "stop" : 1614741778162,
+        "duration" : 12603
+      }
+    } ]
+  },
+  "89e23eaf3e0ad764199bf3d02837d90a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1e501b1adfedf48f",
+      "reportUrl" : "http://localhost:8080/job/MavenJavaTest/21/allure/#testresult/1e501b1adfedf48f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743281438,
+        "stop" : 1614743290333,
+        "duration" : 8895
+      }
+    } ]
+  }
+}

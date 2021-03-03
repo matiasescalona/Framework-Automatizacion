@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","Examples: Get Sites","11223","  Optional description of the feature"
+"passed","Examples: Handle various functions","8895","  Optional description of the feature"
+"passed","Examples: Assert contain text","10120","  Optional description of the feature"

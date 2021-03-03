@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Examples",
+    "children" : [ {
+      "name" : "Get Sites",
+      "uid" : "c74f78b60cc4bbcd",
+      "parentUid" : "3791cf41749861c26006cd5b2b61c7a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743259892,
+        "stop" : 1614743271115,
+        "duration" : 11223
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Assert contain text",
+      "uid" : "89f3ad8e42002105",
+      "parentUid" : "3791cf41749861c26006cd5b2b61c7a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743271279,
+        "stop" : 1614743281399,
+        "duration" : 10120
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Handle various functions",
+      "uid" : "1e501b1adfedf48f",
+      "parentUid" : "3791cf41749861c26006cd5b2b61c7a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1614743281438,
+        "stop" : 1614743290333,
+        "duration" : 8895
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3791cf41749861c26006cd5b2b61c7a4"
+  } ]
+}
